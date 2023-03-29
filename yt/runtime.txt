@@ -1,2 +1,2 @@
 python-3.9.16
-gunicorn==20.1.0
+
