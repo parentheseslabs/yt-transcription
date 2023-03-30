@@ -3,4 +3,3 @@ pytube
 Django
 djangorestframework==3.13.1
 gunicorn
-whitenoise
